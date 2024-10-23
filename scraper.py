@@ -72,7 +72,7 @@ def download_all_flyers():
            # Clean store and flyer names for filename
            store_name = "".join(x for x in flyer['merchant'] if x.isalnum() or x in " -")
            flyer_name = "".join(x for x in flyer['name'] if x.isalnum() or x in " -")
-           filename = f"{store_name}_{flyer_name}_{valid_from}-{valid_to}.json"
+           filename = f"{store_name}_{flyer_name}_{valid_from}-{valid_to}_{flyer['id']}.json"
            
            # Combine flyer info with items
            flyer_data = {
