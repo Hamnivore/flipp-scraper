@@ -1,0 +1,7 @@
+2024-10-22 22:46:54 - File uploaded successfully. File ID: file-KYd3XXt6KQG1AaNGafkFXibX
+2024-10-22 22:46:54 - File ID for batch processing: file-KYd3XXt6KQG1AaNGafkFXibX
+2024-10-22 22:47:21 - Batch created successfully. Batch ID: batch_67187fd99b308190b80c530a4271be3f
+2024-10-22 22:47:21 - Batch ID: batch_67187fd99b308190b80c530a4271be3f
+2024-10-22 22:47:25 - Checking batch status...
+2024-10-22 22:47:25 - Current status: in_progress
+2024-10-22 22:48:25 - Current status: in_progress
