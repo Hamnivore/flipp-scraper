@@ -1683,3 +1683,130 @@
 2024-10-23 22:15:53 - Error cancelling batch batch_6719c946a2dc81909f7360e0ee77dac4: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
 2024-10-23 22:15:55 - Error cancelling batch batch_6719c947733c8190af53e01c6696a99c: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
 2024-10-23 22:15:55 - Cleaned up temporary files
+2024-10-23 22:24:30 - Loaded 63 unlabeled flyers
+2024-10-23 22:24:30 - Prepared 4360 items for batch processing
+2024-10-23 22:24:30 - Estimated total tokens: 39420013
+2024-10-23 22:24:30 -   - Text tokens: 2360013
+2024-10-23 22:24:30 -   - Image tokens: 37060000
+2024-10-23 22:24:30 - Number of batches: 22
+2024-10-23 22:24:30 - Estimated total cost: $5.87
+2024-10-23 22:24:30 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:24:36 - Created 1 batches
+2024-10-23 22:26:12 - Total number of batches: 1
+2024-10-23 22:26:12 - Processing batch group 1 of 1
+2024-10-23 22:26:14 - Uploaded batch input file 0 with ID: file-mHxnzmFdYWJWwGJxmuO6OHxf
+2024-10-23 22:26:14 - Created batch 0 with ID: batch_6719cc6624148190a84ae029c1d76e65
+2024-10-23 22:26:15 - Waiting for 1 batches to complete...
+2024-10-23 22:28:56 - Loaded 63 unlabeled flyers
+2024-10-23 22:28:56 - Prepared 4360 items for batch processing
+2024-10-23 22:28:56 - Estimated total tokens: 39420013
+2024-10-23 22:28:56 -   - Text tokens: 2360013
+2024-10-23 22:28:56 -   - Image tokens: 37060000
+2024-10-23 22:28:56 - Number of batches: 22
+2024-10-23 22:28:56 - Estimated total cost: $5.87
+2024-10-23 22:28:56 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:28:56 - Estimated number of batches: 22
+2024-10-23 22:29:02 - Total number of batches: 1
+2024-10-23 22:29:02 - Processing batch group 1 of 1
+2024-10-23 22:29:02 - Uploaded batch input file 0 with ID: file-LhBNibCNlxTtcH7GjKGDQtYG
+2024-10-23 22:29:03 - Created batch 0 with ID: batch_6719cd0e7d508190b66fa186c99e49d4
+2024-10-23 22:29:03 - Waiting for 1 batches to complete...
+2024-10-23 22:37:46 - Loaded 63 unlabeled flyers
+2024-10-23 22:37:46 - Prepared 4360 items for batch processing
+2024-10-23 22:37:46 - Estimated total tokens: 39420013
+2024-10-23 22:37:46 -   - Text tokens: 2360013
+2024-10-23 22:37:46 -   - Image tokens: 37060000
+2024-10-23 22:37:46 - Number of batches: 22
+2024-10-23 22:37:46 - Estimated total cost: $5.87
+2024-10-23 22:37:46 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:37:46 - Estimated number of batches: 22
+2024-10-23 22:37:49 - Created 1 batches
+2024-10-23 22:43:16 - Loaded 63 unlabeled flyers
+2024-10-23 22:43:16 - Prepared 4360 items for batch processing
+2024-10-23 22:43:16 - Estimated total tokens: 39420013
+2024-10-23 22:43:16 -   - Text tokens: 2360013
+2024-10-23 22:43:16 -   - Image tokens: 37060000
+2024-10-23 22:43:16 - Estimated number of batches: 22
+2024-10-23 22:43:16 - Estimated total cost: $5.87
+2024-10-23 22:43:16 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:43:16 - Batch input saved: batch_input.json
+2024-10-23 22:45:51 - Created 22 batch files in batch_input_files
+2024-10-23 22:46:40 - Loaded 63 unlabeled flyers
+2024-10-23 22:46:40 - Prepared 4360 items for batch processing
+2024-10-23 22:46:40 - Estimated total tokens: 39420013
+2024-10-23 22:46:40 -   - Text tokens: 2360013
+2024-10-23 22:46:40 -   - Image tokens: 37060000
+2024-10-23 22:46:40 - Estimated number of batches: 22
+2024-10-23 22:46:40 - Estimated total cost: $5.87
+2024-10-23 22:46:40 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:46:40 - Batch input saved: batch_input.json
+2024-10-23 22:46:47 - Created 22 batch files in batch_files
+2024-10-23 22:47:16 - Created 22 batch files in batch_files
+2024-10-23 22:48:11 - Estimated total tokens: 39420013
+2024-10-23 22:48:11 -   - Text tokens: 2360013
+2024-10-23 22:48:11 -   - Image tokens: 37060000
+2024-10-23 22:48:11 - Estimated total cost: $5.87
+2024-10-23 22:49:56 - Loaded 63 unlabeled flyers
+2024-10-23 22:49:56 - Prepared 4360 items for batch processing
+2024-10-23 22:49:56 - Estimated total tokens: 39420013
+2024-10-23 22:49:56 -   - Text tokens: 2360013
+2024-10-23 22:49:56 -   - Image tokens: 37060000
+2024-10-23 22:49:56 - Estimated number of batches: 22
+2024-10-23 22:49:56 - Estimated total cost: $5.87
+2024-10-23 22:49:56 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:49:56 - Batch input saved: batch_input.json
+2024-10-23 22:49:59 - Created 22 batch files in batch_files
+2024-10-23 22:51:21 - Found 20 batches.
+2024-10-23 22:51:23 - Error cancelling batch batch_6719cd0e7d508190b66fa186c99e49d4: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:25 - Error cancelling batch batch_6719cc6624148190a84ae029c1d76e65: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:26 - Error cancelling batch batch_6719c948674c81908cb127c700e0d1cb: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:28 - Error cancelling batch batch_6719c947733c8190af53e01c6696a99c: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:30 - Error cancelling batch batch_6719c946a2dc81909f7360e0ee77dac4: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:32 - Error cancelling batch batch_6719c945b8a08190b6f056e95fac126f: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:33 - Error cancelling batch batch_6719c944cd5881909959420746d9327d: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:35 - Error cancelling batch batch_6719c94417dc8190b637961a83da5ceb: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:37 - Error cancelling batch batch_6719c94336248190adc0b94ca6c03931: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:39 - Error cancelling batch batch_6719c942601081908725997b99fd11ad: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:40 - Error cancelling batch batch_6719c9419544819082119760650c1057: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:42 - Error cancelling batch batch_6719c940a94c8190ae9b1509e8a90ca7: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:42 - Cancelled batch batch_6719c93fb97481909855ae61cd9909ff
+2024-10-23 22:51:44 - Error cancelling batch batch_6719c93e82d481909b481e88b10a93fe: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:45 - Error cancelling batch batch_6719c93da59081908e9d03fac0c26285: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:47 - Error cancelling batch batch_6719c93c998c8190bfe6869bfbbe7953: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:47 - Cancelled batch batch_6719c93b8e34819089aa296ffa09d8b0
+2024-10-23 22:51:49 - Error cancelling batch batch_6719c93aa69481908c4c172954c2c1bb: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:50 - Error cancelling batch batch_6719c939b82c8190bc10920347fd3769: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:52 - Error cancelling batch batch_6719c9387b048190ac0cb5f6cb9da2e2: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:51:52 - Finished cancelling batches.
+2024-10-23 22:52:21 - Loaded 63 unlabeled flyers
+2024-10-23 22:52:21 - Prepared 4360 items for batch processing
+2024-10-23 22:52:21 - Estimated total tokens: 39420013
+2024-10-23 22:52:21 -   - Text tokens: 2360013
+2024-10-23 22:52:21 -   - Image tokens: 37060000
+2024-10-23 22:52:21 - Estimated number of batches: 22
+2024-10-23 22:52:21 - Estimated total cost: $5.87
+2024-10-23 22:52:21 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:52:22 - Batch input saved: batch_input.json
+2024-10-23 22:52:27 - Created 22 batch files in batch_files
+2024-10-23 22:52:30 - Processing batch group 1 of 5
+2024-10-23 22:52:31 - Uploaded batch input file batch_input_0.jsonl with ID: file-U7KVqb41MQmS94XQYobRd4CT
+2024-10-23 22:52:32 - Created batch for batch_input_0.jsonl with ID: batch_6719d28f9f708190ab518c5026079ab8
+2024-10-23 22:52:32 - Uploaded batch input file batch_input_1.jsonl with ID: file-PrFTQZyAxIzpcXp2yvE03yMk
+2024-10-23 22:52:33 - Created batch for batch_input_1.jsonl with ID: batch_6719d290e1c08190adf240b10e0e6c30
+2024-10-23 22:52:34 - Uploaded batch input file batch_input_10.jsonl with ID: file-qrEYGCMj8S3EniQjpzK5hrOo
+2024-10-23 22:52:35 - Created batch for batch_input_10.jsonl with ID: batch_6719d2927dd881908d9da8e5e8a3a6ea
+2024-10-23 22:52:35 - Uploaded batch input file batch_input_11.jsonl with ID: file-WmvfZD885m1LceyoZ3jjVnoc
+2024-10-23 22:52:36 - Created batch for batch_input_11.jsonl with ID: batch_6719d293926c819099122729ed75ae8a
+2024-10-23 22:52:36 - Uploaded batch input file batch_input_12.jsonl with ID: file-r9XH24aEvHplHR01HL7Vv8ng
+2024-10-23 22:52:37 - Created batch for batch_input_12.jsonl with ID: batch_6719d294b9088190affd25e35ff9a4f7
+2024-10-23 22:52:38 - Waiting for 5 batches to complete...
+2024-10-23 22:53:38 - Batch batch_6719d2927dd881908d9da8e5e8a3a6ea completed and processed.
+2024-10-23 22:53:39 - Waiting for 4 batches to complete...
+2024-10-23 22:54:39 - Waiting for 4 batches to complete...
+2024-10-23 22:56:40 - Found 20 batches.
+2024-10-23 22:56:41 - Cancelled batch batch_6719d294b9088190affd25e35ff9a4f7
+2024-10-23 22:56:41 - Cancelled batch batch_6719d293926c819099122729ed75ae8a
+2024-10-23 22:56:41 - Cancelled batch batch_6719d290e1c08190adf240b10e0e6c30
+2024-10-23 22:56:42 - Cancelled batch batch_6719d28f9f708190ab518c5026079ab8
+2024-10-23 22:56:42 - Cancelled batch batch_6719c93fb97481909855ae61cd9909ff
+2024-10-23 22:56:42 - Finished cancelling batches.
