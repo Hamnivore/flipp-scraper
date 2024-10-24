@@ -1087,3 +1087,599 @@
 2024-10-23 16:36:15 - Retrieving batch results...
 2024-10-23 16:36:16 - Retrieved and processed 4005 results
 2024-10-23 16:36:16 - Total results processed: 4005
+2024-10-23 21:06:25 - Loaded 63 unlabeled flyers
+2024-10-23 21:06:25 - Prepared 4360 items for batch processing
+2024-10-23 21:06:25 - Batch input file created: batch_input.jsonl
+2024-10-23 21:06:25 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:08:01 - Uploaded batch input file with ID: file-vd2DLasd6AgZA5fyEpYrOG1R
+2024-10-23 21:08:02 - Created batch with ID: batch_6719ba11c42c81909dfbfe38df4f3843
+2024-10-23 21:08:02 - Batch ID saved to batch_id.txt
+2024-10-23 21:08:08 - Batch status: failed
+2024-10-23 21:08:08 - Completed requests: 0
+2024-10-23 21:08:08 - Failed requests: 0
+2024-10-23 21:08:56 - Batch status: failed
+2024-10-23 21:08:56 - Completed requests: 0
+2024-10-23 21:08:56 - Failed requests: 0
+2024-10-23 21:08:56 - Batch failed. Retrieving error information...
+2024-10-23 21:08:56 - No detailed error information available.
+2024-10-23 21:08:56 - Batch level errors:
+2024-10-23 21:09:57 - Batch status: failed
+2024-10-23 21:09:57 - Completed requests: 0
+2024-10-23 21:09:57 - Failed requests: 0
+2024-10-23 21:09:57 - Batch failed. Retrieving error information...
+2024-10-23 21:09:57 - No detailed error information available.
+2024-10-23 21:09:57 - Batch level errors:
+2024-10-23 21:14:34 - Loaded 63 unlabeled flyers
+2024-10-23 21:14:34 - Prepared 4360 items for batch processing
+2024-10-23 21:14:34 - Estimated total tokens: 2348013
+2024-10-23 21:14:34 - Warning: Estimated token count (2348013) exceeds the limit (2000000).
+2024-10-23 21:14:34 - Consider reducing the number of items or splitting the batch.
+2024-10-23 21:14:34 - Batch input file created: batch_input.jsonl
+2024-10-23 21:14:34 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:14:52 - Loaded 63 unlabeled flyers
+2024-10-23 21:14:52 - Prepared 4360 items for batch processing
+2024-10-23 21:14:52 - Estimated total tokens: 2348013
+2024-10-23 21:14:52 - Warning: Estimated token count (2348013) exceeds the limit (2000000).
+2024-10-23 21:14:52 - Consider reducing the number of items or splitting the batch.
+2024-10-23 21:14:52 - Batch input file created: batch_input.jsonl
+2024-10-23 21:14:52 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:20:28 - Loaded 63 unlabeled flyers
+2024-10-23 21:20:28 - Prepared 4360 items for batch processing
+2024-10-23 21:20:28 - Estimated total tokens: 2348013
+2024-10-23 21:20:28 - Warning: Estimated token count (2348013) exceeds the limit (2000000).
+2024-10-23 21:20:28 - Consider reducing the number of items or splitting the batch.
+2024-10-23 21:20:28 - Batch input file created: batch_input.jsonl
+2024-10-23 21:20:28 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:20:53 - Loaded 63 unlabeled flyers
+2024-10-23 21:20:53 - Prepared 4360 items for batch processing
+2024-10-23 21:20:53 - Batch input file created: batch_input.jsonl
+2024-10-23 21:20:53 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:23:22 - Loaded 63 unlabeled flyers
+2024-10-23 21:23:22 - Prepared 4360 items for batch processing
+2024-10-23 21:23:22 - Estimated total tokens: 2348013
+2024-10-23 21:23:22 - Number of batches: 3
+2024-10-23 21:23:22 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:27:23 - Loaded 63 unlabeled flyers
+2024-10-23 21:27:23 - Prepared 4360 items for batch processing
+2024-10-23 21:27:23 - Estimated total tokens: 2348013
+2024-10-23 21:27:23 - Number of batches: 3
+2024-10-23 21:27:23 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:27:27 - Uploaded batch input file 0 with ID: file-G2OT29ZBNy91ubVNslGZvgU9
+2024-10-23 21:27:28 - Created batch 0 with ID: batch_6719be9fa878819093c06a699e69b718
+2024-10-23 21:27:29 - Uploaded batch input file 1 with ID: file-ve2bctNbEwXTLLtMcvMR4hRl
+2024-10-23 21:27:30 - Created batch 1 with ID: batch_6719bea1e614819082966200b088fe8b
+2024-10-23 21:27:31 - Uploaded batch input file 2 with ID: file-EXqwc8OIzxHGoFCoD2mcUqVc
+2024-10-23 21:27:32 - Created batch 2 with ID: batch_6719bea396308190ba99ef906c78fe5f
+2024-10-23 21:27:32 - Created 3 batches. Batch IDs saved to batch_ids.json
+2024-10-23 21:27:49 - Batch 0 status: in_progress
+2024-10-23 21:27:49 - Completed requests: 109
+2024-10-23 21:27:49 - Failed requests: 0
+2024-10-23 21:27:49 - Batch 1 status: failed
+2024-10-23 21:27:49 - Completed requests: 0
+2024-10-23 21:27:49 - Failed requests: 0
+2024-10-23 21:27:49 - Batch 1 failed. Retrieving error information...
+2024-10-23 21:27:49 - No detailed error information available.
+2024-10-23 21:27:49 - Batch level errors:
+2024-10-23 21:27:49 - Batch 2 status: failed
+2024-10-23 21:27:49 - Completed requests: 0
+2024-10-23 21:27:49 - Failed requests: 0
+2024-10-23 21:27:49 - Batch 2 failed. Retrieving error information...
+2024-10-23 21:27:49 - No detailed error information available.
+2024-10-23 21:27:49 - Batch level errors:
+2024-10-23 21:29:43 - Cancelled batch batch_6719be9fa878819093c06a699e69b718
+2024-10-23 21:29:45 - Error cancelling batch batch_6719bea1e614819082966200b088fe8b: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:29:47 - Error cancelling batch batch_6719bea396308190ba99ef906c78fe5f: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:29:47 - Cleaned up temporary files
+2024-10-23 21:32:50 - Loaded 63 unlabeled flyers
+2024-10-23 21:32:50 - Prepared 4360 items for batch processing
+2024-10-23 21:32:50 - Estimated total tokens: 2348013
+2024-10-23 21:32:50 - Number of batches: 4
+2024-10-23 21:32:50 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:32:59 - Uploaded batch input file 0 with ID: file-925u1QNSy4B4JONwl06IKYJX
+2024-10-23 21:33:00 - Created batch 0 with ID: batch_6719bfeb9a508190bdd2dc8f24fd4c05
+2024-10-23 21:33:01 - Uploaded batch input file 1 with ID: file-6Di1owAHjeLtk6nHkMD075dA
+2024-10-23 21:33:01 - Created batch 1 with ID: batch_6719bfed1fd88190a61f17ea7d089999
+2024-10-23 21:33:02 - Uploaded batch input file 2 with ID: file-1lsBtgH10V1ZDS6MnQLc6Jxz
+2024-10-23 21:33:03 - Created batch 2 with ID: batch_6719bfee79d88190afa96fd9112837f2
+2024-10-23 21:33:03 - Uploaded batch input file 3 with ID: file-DaWZnxcGXFdMLIZpcXkuQuq1
+2024-10-23 21:33:04 - Created batch 3 with ID: batch_6719bfefb7148190b44150dde4d8fbaf
+2024-10-23 21:33:04 - Created 4 batches. Batch IDs saved to batch_ids.json
+2024-10-23 21:33:10 - Batch 0 status: failed
+2024-10-23 21:33:10 - Completed requests: 0
+2024-10-23 21:33:10 - Failed requests: 0
+2024-10-23 21:33:10 - Batch 0 failed. Retrieving error information...
+2024-10-23 21:33:10 - No detailed error information available.
+2024-10-23 21:33:10 - Batch level errors:
+2024-10-23 21:33:10 - Batch 1 status: failed
+2024-10-23 21:33:10 - Completed requests: 0
+2024-10-23 21:33:10 - Failed requests: 0
+2024-10-23 21:33:10 - Batch 1 failed. Retrieving error information...
+2024-10-23 21:33:10 - No detailed error information available.
+2024-10-23 21:33:10 - Batch level errors:
+2024-10-23 21:33:10 - Batch 2 status: failed
+2024-10-23 21:33:10 - Completed requests: 0
+2024-10-23 21:33:10 - Failed requests: 0
+2024-10-23 21:33:10 - Batch 2 failed. Retrieving error information...
+2024-10-23 21:33:10 - No detailed error information available.
+2024-10-23 21:33:10 - Batch level errors:
+2024-10-23 21:33:10 - Batch 3 status: failed
+2024-10-23 21:33:10 - Completed requests: 0
+2024-10-23 21:33:10 - Failed requests: 0
+2024-10-23 21:33:10 - Batch 3 failed. Retrieving error information...
+2024-10-23 21:33:10 - No detailed error information available.
+2024-10-23 21:33:10 - Batch level errors:
+2024-10-23 21:33:31 - Error cancelling batch batch_6719bfeb9a508190bdd2dc8f24fd4c05: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:33:33 - Error cancelling batch batch_6719bfed1fd88190a61f17ea7d089999: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:33:35 - Error cancelling batch batch_6719bfee79d88190afa96fd9112837f2: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:33:37 - Error cancelling batch batch_6719bfefb7148190b44150dde4d8fbaf: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:33:37 - Cleaned up temporary files
+2024-10-23 21:34:03 - Loaded 63 unlabeled flyers
+2024-10-23 21:34:03 - Prepared 4360 items for batch processing
+2024-10-23 21:34:03 - Estimated total tokens: 2348013
+2024-10-23 21:34:03 - Number of batches: 24
+2024-10-23 21:34:03 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:38:50 - Loaded 63 unlabeled flyers
+2024-10-23 21:38:50 - Prepared 4360 items for batch processing
+2024-10-23 21:38:50 - Estimated total tokens: 39408013
+2024-10-23 21:38:50 - Number of batches: 20
+2024-10-23 21:38:50 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:43:35 - Loaded 63 unlabeled flyers
+2024-10-23 21:43:35 - Prepared 4360 items for batch processing
+2024-10-23 21:43:35 - Estimated total tokens: 39408013
+2024-10-23 21:43:35 -   - Text tokens: 2348013
+2024-10-23 21:43:35 -   - Image tokens: 37060000
+2024-10-23 21:43:35 - Number of batches: 20
+2024-10-23 21:43:35 - Estimated total cost: $5.87
+2024-10-23 21:43:35 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:46:23 - Loaded 63 unlabeled flyers
+2024-10-23 21:46:23 - Prepared 4360 items for batch processing
+2024-10-23 21:46:23 - Estimated total tokens: 39408013
+2024-10-23 21:46:23 -   - Text tokens: 2348013
+2024-10-23 21:46:23 -   - Image tokens: 37060000
+2024-10-23 21:46:23 - Number of batches: 22
+2024-10-23 21:46:23 - Estimated total cost: $5.87
+2024-10-23 21:46:23 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:46:55 - Loaded 63 unlabeled flyers
+2024-10-23 21:46:55 - Prepared 4360 items for batch processing
+2024-10-23 21:46:55 - Estimated total tokens: 39420013
+2024-10-23 21:46:55 -   - Text tokens: 2360013
+2024-10-23 21:46:55 -   - Image tokens: 37060000
+2024-10-23 21:46:55 - Number of batches: 22
+2024-10-23 21:46:55 - Estimated total cost: $5.87
+2024-10-23 21:46:55 - Flyers to process saved: flyers_to_process.json
+2024-10-23 21:47:02 - Uploaded batch input file 0 with ID: file-9BP7W0AJDBs1LzokPgmqnd1P
+2024-10-23 21:47:02 - Created batch 0 with ID: batch_6719c3363a848190aca977450db5056d
+2024-10-23 21:47:03 - Uploaded batch input file 1 with ID: file-XDY3AjVAbTxKpNP1ko9BoGlF
+2024-10-23 21:47:04 - Created batch 1 with ID: batch_6719c3378e0c819094ebaf68a170058c
+2024-10-23 21:47:05 - Uploaded batch input file 2 with ID: file-oyX5DPO8LMjZFCT6O0hwinIJ
+2024-10-23 21:47:05 - Created batch 2 with ID: batch_6719c3390fa48190950f130bb9e75022
+2024-10-23 21:47:06 - Uploaded batch input file 3 with ID: file-TX3TB6AvwudHjFiZqS4L2yOr
+2024-10-23 21:47:06 - Created batch 3 with ID: batch_6719c33a60a481908a4b639aabcc9ea2
+2024-10-23 21:47:07 - Uploaded batch input file 4 with ID: file-H4189vk85yiCdUUFgApueErX
+2024-10-23 21:47:08 - Created batch 4 with ID: batch_6719c33b97d08190baba5c2198e6d341
+2024-10-23 21:47:08 - Uploaded batch input file 5 with ID: file-PSeAIaNQzIt7pdKqgK64o640
+2024-10-23 21:47:08 - Created batch 5 with ID: batch_6719c33c6d608190b85e81179eee6668
+2024-10-23 21:47:09 - Uploaded batch input file 6 with ID: file-71R0yjPqo8YYUsGlufMlpQOJ
+2024-10-23 21:47:09 - Created batch 6 with ID: batch_6719c33d6be881908e54e8f15f1d24d2
+2024-10-23 21:47:10 - Uploaded batch input file 7 with ID: file-M8PiruIe3YVSuh7LsOkvvuMl
+2024-10-23 21:47:11 - Created batch 7 with ID: batch_6719c33e9c9c8190a509fb27b63e4f39
+2024-10-23 21:47:11 - Uploaded batch input file 8 with ID: file-3KCRK9mCwkvekvNVknM9W7xq
+2024-10-23 21:47:12 - Created batch 8 with ID: batch_6719c33f99388190bf155967e95ea0d8
+2024-10-23 21:47:12 - Uploaded batch input file 9 with ID: file-F1fJywJwAOcDJilyezbqgcjq
+2024-10-23 21:47:13 - Created batch 9 with ID: batch_6719c3407d448190831b0e20fad399d4
+2024-10-23 21:47:13 - Uploaded batch input file 10 with ID: file-6TLx5SlIm2K0x35WTX9Hw0m1
+2024-10-23 21:47:14 - Created batch 10 with ID: batch_6719c34183d881909d84f283a4ea3e55
+2024-10-23 21:47:14 - Uploaded batch input file 11 with ID: file-dJQI3XtbpheX22fkprxdGmXO
+2024-10-23 21:47:15 - Created batch 11 with ID: batch_6719c342896c81909e0bb5e9a9e12937
+2024-10-23 21:47:15 - Uploaded batch input file 12 with ID: file-ZDpIaE9ayepBqv6X7TaiysLR
+2024-10-23 21:47:16 - Created batch 12 with ID: batch_6719c343d2c08190bd897527d0094461
+2024-10-23 21:47:17 - Uploaded batch input file 13 with ID: file-DnCu3zhfCBzTx2c9RXjQVLty
+2024-10-23 21:47:17 - Created batch 13 with ID: batch_6719c3451dc08190be549323be5b4208
+2024-10-23 21:47:18 - Uploaded batch input file 14 with ID: file-g8GnmjHJtWJjHpT3OT0WhYYx
+2024-10-23 21:47:18 - Created batch 14 with ID: batch_6719c34604648190977bef4aecd29ffc
+2024-10-23 21:47:19 - Uploaded batch input file 15 with ID: file-HM24I01H6z4QOp0x4pGPoFYg
+2024-10-23 21:47:19 - Created batch 15 with ID: batch_6719c3471ce48190a4fb7f9e37f3ea50
+2024-10-23 21:47:20 - Uploaded batch input file 16 with ID: file-pS8r4Fk4HxR04RtIdTdY7UoR
+2024-10-23 21:47:20 - Created batch 16 with ID: batch_6719c347dd6881909960455eba68fb5a
+2024-10-23 21:47:21 - Uploaded batch input file 17 with ID: file-u7rWNnlu9lkjZMcbbc4kaFxS
+2024-10-23 21:47:21 - Created batch 17 with ID: batch_6719c348e3488190b99ee5a11a5452f0
+2024-10-23 21:47:22 - Uploaded batch input file 18 with ID: file-ixiAfOoeZHaRpcawbSdmGeJ3
+2024-10-23 21:47:22 - Created batch 18 with ID: batch_6719c34a023c8190ac6cc1b540b45022
+2024-10-23 21:47:23 - Uploaded batch input file 19 with ID: file-xumviG37kFAuP4kYX1SdY9JR
+2024-10-23 21:47:23 - Created batch 19 with ID: batch_6719c34b2abc8190926f69431b573f1e
+2024-10-23 21:47:24 - Uploaded batch input file 20 with ID: file-5hxyZ7PqnGAinqPKOeDnhD19
+2024-10-23 21:47:24 - Created batch 20 with ID: batch_6719c34c28c88190b2fb474b3782d490
+2024-10-23 21:47:25 - Uploaded batch input file 21 with ID: file-c0IRMN2rUs2iEOLhVsHqQHxg
+2024-10-23 21:47:25 - Created batch 21 with ID: batch_6719c34d1910819095f13ca95b196a2c
+2024-10-23 21:47:25 - Created 22 batches. Batch IDs saved to batch_ids.json
+2024-10-23 21:47:29 - Batch 0 status: in_progress
+2024-10-23 21:47:29 - Completed requests: 173
+2024-10-23 21:47:29 - Failed requests: 0
+2024-10-23 21:47:29 - Batch 1 status: in_progress
+2024-10-23 21:47:29 - Completed requests: 180
+2024-10-23 21:47:29 - Failed requests: 0
+2024-10-23 21:47:29 - Batch 2 status: in_progress
+2024-10-23 21:47:29 - Completed requests: 116
+2024-10-23 21:47:29 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 3 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 133
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 4 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 97
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 5 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 142
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 6 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 147
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 7 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 77
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 8 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 98
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 9 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 112
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 10 status: in_progress
+2024-10-23 21:47:30 - Completed requests: 108
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 11 status: failed
+2024-10-23 21:47:30 - Completed requests: 0
+2024-10-23 21:47:30 - Failed requests: 0
+2024-10-23 21:47:30 - Batch 11 failed. Retrieving error information...
+2024-10-23 21:47:30 - No detailed error information available.
+2024-10-23 21:47:30 - Batch level errors:
+2024-10-23 21:47:31 - Batch 12 status: failed
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 12 failed. Retrieving error information...
+2024-10-23 21:47:31 - No detailed error information available.
+2024-10-23 21:47:31 - Batch level errors:
+2024-10-23 21:47:31 - Batch 13 status: failed
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 13 failed. Retrieving error information...
+2024-10-23 21:47:31 - No detailed error information available.
+2024-10-23 21:47:31 - Batch level errors:
+2024-10-23 21:47:31 - Batch 14 status: failed
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 14 failed. Retrieving error information...
+2024-10-23 21:47:31 - No detailed error information available.
+2024-10-23 21:47:31 - Batch level errors:
+2024-10-23 21:47:31 - Batch 15 status: failed
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 15 failed. Retrieving error information...
+2024-10-23 21:47:31 - No detailed error information available.
+2024-10-23 21:47:31 - Batch level errors:
+2024-10-23 21:47:31 - Batch 16 status: failed
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 16 failed. Retrieving error information...
+2024-10-23 21:47:31 - No detailed error information available.
+2024-10-23 21:47:31 - Batch level errors:
+2024-10-23 21:47:31 - Batch 17 status: validating
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 18 status: failed
+2024-10-23 21:47:31 - Completed requests: 0
+2024-10-23 21:47:31 - Failed requests: 0
+2024-10-23 21:47:31 - Batch 18 failed. Retrieving error information...
+2024-10-23 21:47:31 - No detailed error information available.
+2024-10-23 21:47:31 - Batch level errors:
+2024-10-23 21:47:32 - Batch 19 status: failed
+2024-10-23 21:47:32 - Completed requests: 0
+2024-10-23 21:47:32 - Failed requests: 0
+2024-10-23 21:47:32 - Batch 19 failed. Retrieving error information...
+2024-10-23 21:47:32 - No detailed error information available.
+2024-10-23 21:47:32 - Batch level errors:
+2024-10-23 21:47:32 - Batch 20 status: failed
+2024-10-23 21:47:32 - Completed requests: 0
+2024-10-23 21:47:32 - Failed requests: 0
+2024-10-23 21:47:32 - Batch 20 failed. Retrieving error information...
+2024-10-23 21:47:32 - No detailed error information available.
+2024-10-23 21:47:32 - Batch level errors:
+2024-10-23 21:47:32 - Batch 21 status: failed
+2024-10-23 21:47:32 - Completed requests: 0
+2024-10-23 21:47:32 - Failed requests: 0
+2024-10-23 21:47:32 - Batch 21 failed. Retrieving error information...
+2024-10-23 21:47:32 - No detailed error information available.
+2024-10-23 21:47:32 - Batch level errors:
+2024-10-23 21:47:42 - Batch 0 status: in_progress
+2024-10-23 21:47:42 - Completed requests: 191
+2024-10-23 21:47:42 - Failed requests: 0
+2024-10-23 21:47:42 - Batch 1 status: in_progress
+2024-10-23 21:47:42 - Completed requests: 196
+2024-10-23 21:47:42 - Failed requests: 0
+2024-10-23 21:47:42 - Batch 2 status: in_progress
+2024-10-23 21:47:42 - Completed requests: 164
+2024-10-23 21:47:42 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 3 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 188
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 4 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 148
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 5 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 192
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 6 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 193
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 7 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 149
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 8 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 194
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 9 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 195
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:43 - Batch 10 status: in_progress
+2024-10-23 21:47:43 - Completed requests: 196
+2024-10-23 21:47:43 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 11 status: failed
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 11 failed. Retrieving error information...
+2024-10-23 21:47:44 - No detailed error information available.
+2024-10-23 21:47:44 - Batch level errors:
+2024-10-23 21:47:44 - Batch 12 status: failed
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 12 failed. Retrieving error information...
+2024-10-23 21:47:44 - No detailed error information available.
+2024-10-23 21:47:44 - Batch level errors:
+2024-10-23 21:47:44 - Batch 13 status: failed
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 13 failed. Retrieving error information...
+2024-10-23 21:47:44 - No detailed error information available.
+2024-10-23 21:47:44 - Batch level errors:
+2024-10-23 21:47:44 - Batch 14 status: failed
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 14 failed. Retrieving error information...
+2024-10-23 21:47:44 - No detailed error information available.
+2024-10-23 21:47:44 - Batch level errors:
+2024-10-23 21:47:44 - Batch 15 status: failed
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 15 failed. Retrieving error information...
+2024-10-23 21:47:44 - No detailed error information available.
+2024-10-23 21:47:44 - Batch level errors:
+2024-10-23 21:47:44 - Batch 16 status: failed
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:44 - Batch 16 failed. Retrieving error information...
+2024-10-23 21:47:44 - No detailed error information available.
+2024-10-23 21:47:44 - Batch level errors:
+2024-10-23 21:47:44 - Batch 17 status: validating
+2024-10-23 21:47:44 - Completed requests: 0
+2024-10-23 21:47:44 - Failed requests: 0
+2024-10-23 21:47:45 - Batch 18 status: failed
+2024-10-23 21:47:45 - Completed requests: 0
+2024-10-23 21:47:45 - Failed requests: 0
+2024-10-23 21:47:45 - Batch 18 failed. Retrieving error information...
+2024-10-23 21:47:45 - No detailed error information available.
+2024-10-23 21:47:45 - Batch level errors:
+2024-10-23 21:47:45 - Batch 19 status: failed
+2024-10-23 21:47:45 - Completed requests: 0
+2024-10-23 21:47:45 - Failed requests: 0
+2024-10-23 21:47:45 - Batch 19 failed. Retrieving error information...
+2024-10-23 21:47:45 - No detailed error information available.
+2024-10-23 21:47:45 - Batch level errors:
+2024-10-23 21:47:45 - Batch 20 status: failed
+2024-10-23 21:47:45 - Completed requests: 0
+2024-10-23 21:47:45 - Failed requests: 0
+2024-10-23 21:47:45 - Batch 20 failed. Retrieving error information...
+2024-10-23 21:47:45 - No detailed error information available.
+2024-10-23 21:47:45 - Batch level errors:
+2024-10-23 21:47:45 - Batch 21 status: failed
+2024-10-23 21:47:45 - Completed requests: 0
+2024-10-23 21:47:45 - Failed requests: 0
+2024-10-23 21:47:45 - Batch 21 failed. Retrieving error information...
+2024-10-23 21:47:45 - No detailed error information available.
+2024-10-23 21:47:45 - Batch level errors:
+2024-10-23 21:48:09 - Batch 0 status: in_progress
+2024-10-23 21:48:09 - Completed requests: 195
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:09 - Batch 1 status: in_progress
+2024-10-23 21:48:09 - Completed requests: 197
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:09 - Batch 2 status: in_progress
+2024-10-23 21:48:09 - Completed requests: 164
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:09 - Batch 3 status: in_progress
+2024-10-23 21:48:09 - Completed requests: 197
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:09 - Batch 4 status: completed
+2024-10-23 21:48:09 - Completed requests: 199
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:09 - Batch 5 status: in_progress
+2024-10-23 21:48:09 - Completed requests: 196
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:09 - Batch 6 status: in_progress
+2024-10-23 21:48:09 - Completed requests: 197
+2024-10-23 21:48:09 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 7 status: in_progress
+2024-10-23 21:48:10 - Completed requests: 193
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 8 status: in_progress
+2024-10-23 21:48:10 - Completed requests: 197
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 9 status: in_progress
+2024-10-23 21:48:10 - Completed requests: 198
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 10 status: completed
+2024-10-23 21:48:10 - Completed requests: 199
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 11 status: failed
+2024-10-23 21:48:10 - Completed requests: 0
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 11 failed. Retrieving error information...
+2024-10-23 21:48:10 - No detailed error information available.
+2024-10-23 21:48:10 - Batch level errors:
+2024-10-23 21:48:10 - Batch 12 status: failed
+2024-10-23 21:48:10 - Completed requests: 0
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 12 failed. Retrieving error information...
+2024-10-23 21:48:10 - No detailed error information available.
+2024-10-23 21:48:10 - Batch level errors:
+2024-10-23 21:48:10 - Batch 13 status: failed
+2024-10-23 21:48:10 - Completed requests: 0
+2024-10-23 21:48:10 - Failed requests: 0
+2024-10-23 21:48:10 - Batch 13 failed. Retrieving error information...
+2024-10-23 21:48:10 - No detailed error information available.
+2024-10-23 21:48:10 - Batch level errors:
+2024-10-23 21:48:11 - Batch 14 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 14 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:48:11 - Batch 15 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 15 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:48:11 - Batch 16 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 16 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:48:11 - Batch 17 status: validating
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 18 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 18 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:48:11 - Batch 19 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 19 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:48:11 - Batch 20 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 20 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:48:11 - Batch 21 status: failed
+2024-10-23 21:48:11 - Completed requests: 0
+2024-10-23 21:48:11 - Failed requests: 0
+2024-10-23 21:48:11 - Batch 21 failed. Retrieving error information...
+2024-10-23 21:48:11 - No detailed error information available.
+2024-10-23 21:48:11 - Batch level errors:
+2024-10-23 21:51:08 - Cancelled batch batch_6719c3363a848190aca977450db5056d
+2024-10-23 21:51:09 - Cancelled batch batch_6719c3378e0c819094ebaf68a170058c
+2024-10-23 21:51:09 - Cancelled batch batch_6719c3390fa48190950f130bb9e75022
+2024-10-23 21:51:11 - Error cancelling batch batch_6719c33a60a481908a4b639aabcc9ea2: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:13 - Error cancelling batch batch_6719c33b97d08190baba5c2198e6d341: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:13 - Cancelled batch batch_6719c33c6d608190b85e81179eee6668
+2024-10-23 21:51:15 - Error cancelling batch batch_6719c33d6be881908e54e8f15f1d24d2: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:16 - Cancelled batch batch_6719c33e9c9c8190a509fb27b63e4f39
+2024-10-23 21:51:16 - Cancelled batch batch_6719c33f99388190bf155967e95ea0d8
+2024-10-23 21:51:17 - Cancelled batch batch_6719c3407d448190831b0e20fad399d4
+2024-10-23 21:51:19 - Error cancelling batch batch_6719c34183d881909d84f283a4ea3e55: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:20 - Error cancelling batch batch_6719c342896c81909e0bb5e9a9e12937: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:22 - Error cancelling batch batch_6719c343d2c08190bd897527d0094461: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:23 - Error cancelling batch batch_6719c3451dc08190be549323be5b4208: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:25 - Error cancelling batch batch_6719c34604648190977bef4aecd29ffc: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:27 - Error cancelling batch batch_6719c3471ce48190a4fb7f9e37f3ea50: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:29 - Error cancelling batch batch_6719c347dd6881909960455eba68fb5a: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:31 - Error cancelling batch batch_6719c348e3488190b99ee5a11a5452f0: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:32 - Error cancelling batch batch_6719c34a023c8190ac6cc1b540b45022: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:34 - Error cancelling batch batch_6719c34b2abc8190926f69431b573f1e: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:36 - Error cancelling batch batch_6719c34c28c88190b2fb474b3782d490: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:37 - Error cancelling batch batch_6719c34d1910819095f13ca95b196a2c: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 21:51:37 - Cleaned up temporary files
+2024-10-23 21:53:18 - Retrieved 199 results from batch batch_6719c33a60a481908a4b639aabcc9ea2
+2024-10-23 21:53:19 - Retrieved 199 results from batch batch_6719c33b97d08190baba5c2198e6d341
+2024-10-23 21:53:19 - Retrieved 199 results from batch batch_6719c33d6be881908e54e8f15f1d24d2
+2024-10-23 21:53:20 - Retrieved 199 results from batch batch_6719c34183d881909d84f283a4ea3e55
+2024-10-23 21:53:21 - Retrieved 198 results from batch batch_6719c348e3488190b99ee5a11a5452f0
+2024-10-23 21:54:50 - Retrieved 199 results from batch batch_6719c33a60a481908a4b639aabcc9ea2
+2024-10-23 21:54:51 - Retrieved 199 results from batch batch_6719c33b97d08190baba5c2198e6d341
+2024-10-23 21:54:52 - Retrieved 199 results from batch batch_6719c33d6be881908e54e8f15f1d24d2
+2024-10-23 21:54:52 - Retrieved 199 results from batch batch_6719c34183d881909d84f283a4ea3e55
+2024-10-23 21:54:53 - Retrieved 198 results from batch batch_6719c348e3488190b99ee5a11a5452f0
+2024-10-23 21:54:53 - Total results retrieved: 994
+2024-10-23 21:54:53 - All results saved to completed_results.json
+2024-10-23 22:12:31 - Loaded 63 unlabeled flyers
+2024-10-23 22:12:31 - Prepared 4360 items for batch processing
+2024-10-23 22:12:31 - Estimated total tokens: 39420013
+2024-10-23 22:12:31 -   - Text tokens: 2360013
+2024-10-23 22:12:31 -   - Image tokens: 37060000
+2024-10-23 22:12:31 - Number of batches: 22
+2024-10-23 22:12:31 - Estimated total cost: $5.87
+2024-10-23 22:12:31 - Flyers to process saved: flyers_to_process.json
+2024-10-23 22:12:40 - Uploaded batch input file 0 with ID: file-v26wxjqgwUiHgWz3upPO0Hod
+2024-10-23 22:12:41 - Created batch 0 with ID: batch_6719c9387b048190ac0cb5f6cb9da2e2
+2024-10-23 22:12:42 - Uploaded batch input file 1 with ID: file-t4HAisEWSlCh5d9rswtJMY5q
+2024-10-23 22:12:42 - Created batch 1 with ID: batch_6719c939b82c8190bc10920347fd3769
+2024-10-23 22:12:42 - Uploaded batch input file 2 with ID: file-fh2BmLNHlgGm6f50Mxl2ovov
+2024-10-23 22:12:43 - Created batch 2 with ID: batch_6719c93aa69481908c4c172954c2c1bb
+2024-10-23 22:12:43 - Uploaded batch input file 3 with ID: file-7hrclOIFEMinZtcTx1kYMBKd
+2024-10-23 22:12:44 - Created batch 3 with ID: batch_6719c93b8e34819089aa296ffa09d8b0
+2024-10-23 22:12:44 - Uploaded batch input file 4 with ID: file-Ql7IMxE4EAiDcmR8DDDn6Ehm
+2024-10-23 22:12:45 - Created batch 4 with ID: batch_6719c93c998c8190bfe6869bfbbe7953
+2024-10-23 22:12:45 - Uploaded batch input file 5 with ID: file-5KRfIFUFz3ThN8iLB20QnzD1
+2024-10-23 22:12:46 - Created batch 5 with ID: batch_6719c93da59081908e9d03fac0c26285
+2024-10-23 22:12:46 - Uploaded batch input file 6 with ID: file-sC1xisaUdh6Fk8bZd1vQNV3p
+2024-10-23 22:12:47 - Created batch 6 with ID: batch_6719c93e82d481909b481e88b10a93fe
+2024-10-23 22:12:47 - Uploaded batch input file 7 with ID: file-pXSSHDHFLmO82YpnK3eQYRVu
+2024-10-23 22:12:48 - Created batch 7 with ID: batch_6719c93fb97481909855ae61cd9909ff
+2024-10-23 22:12:49 - Uploaded batch input file 8 with ID: file-E64W8IXgBwUT8pe04wg7LKnn
+2024-10-23 22:12:49 - Created batch 8 with ID: batch_6719c940a94c8190ae9b1509e8a90ca7
+2024-10-23 22:12:49 - Uploaded batch input file 9 with ID: file-eI6CmPTocuWgXFk2owC3jrCN
+2024-10-23 22:12:50 - Created batch 9 with ID: batch_6719c9419544819082119760650c1057
+2024-10-23 22:12:50 - Uploaded batch input file 10 with ID: file-g6xj9Ef7gVPU3ZzeLgb6qCUY
+2024-10-23 22:12:50 - Created batch 10 with ID: batch_6719c942601081908725997b99fd11ad
+2024-10-23 22:12:51 - Uploaded batch input file 11 with ID: file-EIApmXhkUZo7fGXh1WWDOHZs
+2024-10-23 22:12:51 - Created batch 11 with ID: batch_6719c94336248190adc0b94ca6c03931
+2024-10-23 22:12:52 - Uploaded batch input file 12 with ID: file-mVLY8OKPcQZTODMqepGOT3z1
+2024-10-23 22:12:52 - Created batch 12 with ID: batch_6719c94417dc8190b637961a83da5ceb
+2024-10-23 22:12:53 - Uploaded batch input file 13 with ID: file-AzFBZSTjC79pbyNPQrGD1fVa
+2024-10-23 22:12:53 - Created batch 13 with ID: batch_6719c944cd5881909959420746d9327d
+2024-10-23 22:12:54 - Uploaded batch input file 14 with ID: file-vXVe3yPXrDgB2Icy4KkUCZqP
+2024-10-23 22:12:54 - Created batch 14 with ID: batch_6719c945b8a08190b6f056e95fac126f
+2024-10-23 22:12:54 - Uploaded batch input file 15 with ID: file-AVM5lxp4fwXIpBbJDaxH4SRt
+2024-10-23 22:12:55 - Created batch 15 with ID: batch_6719c946a2dc81909f7360e0ee77dac4
+2024-10-23 22:12:55 - Uploaded batch input file 16 with ID: file-m4e7tDffnwA0T4biNg3JvIp9
+2024-10-23 22:12:56 - Created batch 16 with ID: batch_6719c947733c8190af53e01c6696a99c
+2024-10-23 22:12:56 - Uploaded batch input file 17 with ID: file-U4yEWKduD6O3PkGVKRCwGJCS
+2024-10-23 22:13:50 - No active batches found. Please run the previous cells to create new batches.
+2024-10-23 22:13:53 - No active batches found. Please run the previous cells to create new batches.
+2024-10-23 22:14:34 - Processing batch group 1 of 4
+2024-10-23 22:14:35 - Batch batch_6719c9387b048190ac0cb5f6cb9da2e2 completed and processed.
+2024-10-23 22:14:36 - Batch batch_6719c939b82c8190bc10920347fd3769 completed and processed.
+2024-10-23 22:14:37 - Batch batch_6719c93c998c8190bfe6869bfbbe7953 completed and processed.
+2024-10-23 22:14:37 - Waiting for 2 batches to complete...
+2024-10-23 22:15:30 - Error cancelling batch batch_6719c9387b048190ac0cb5f6cb9da2e2: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:32 - Error cancelling batch batch_6719c939b82c8190bc10920347fd3769: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:34 - Error cancelling batch batch_6719c93aa69481908c4c172954c2c1bb: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:35 - Cancelled batch batch_6719c93b8e34819089aa296ffa09d8b0
+2024-10-23 22:15:36 - Error cancelling batch batch_6719c93c998c8190bfe6869bfbbe7953: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:38 - Error cancelling batch batch_6719c93da59081908e9d03fac0c26285: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:40 - Error cancelling batch batch_6719c93e82d481909b481e88b10a93fe: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:40 - Cancelled batch batch_6719c93fb97481909855ae61cd9909ff
+2024-10-23 22:15:42 - Error cancelling batch batch_6719c940a94c8190ae9b1509e8a90ca7: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:43 - Error cancelling batch batch_6719c9419544819082119760650c1057: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:45 - Error cancelling batch batch_6719c942601081908725997b99fd11ad: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'completed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:47 - Error cancelling batch batch_6719c94336248190adc0b94ca6c03931: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:48 - Error cancelling batch batch_6719c94417dc8190b637961a83da5ceb: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:50 - Error cancelling batch batch_6719c944cd5881909959420746d9327d: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:51 - Error cancelling batch batch_6719c945b8a08190b6f056e95fac126f: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:53 - Error cancelling batch batch_6719c946a2dc81909f7360e0ee77dac4: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:55 - Error cancelling batch batch_6719c947733c8190af53e01c6696a99c: Error code: 409 - {'error': {'message': "Cannot cancel a batch with status 'failed'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-10-23 22:15:55 - Cleaned up temporary files
