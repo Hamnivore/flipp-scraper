@@ -6,6 +6,8 @@ from tqdm import tqdm
 import time
 import os
 
+# pip install curl-cffi tqdm pathlib
+
 def get_flyer_ids(postal_code="84058"):
    url = f'https://cdn-gateflipp.flippback.com/bf/flipp/data?locale=en-us&postal_code={postal_code}&source=flipp_web'
    
