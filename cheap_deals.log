@@ -1,0 +1,27 @@
+nohup: ignoring input
+Starting cheap deals analysis
+  0%|          | 0/51 [00:00<?, ?it/s]100%|██████████| 51/51 [00:00<00:00, 409788.32it/s]
+  0%|          | 0/63 [00:00<?, ?it/s] 56%|█████▌    | 35/63 [00:00<00:00, 348.48it/s]100%|██████████| 63/63 [00:00<00:00, 446.61it/s]
+Loaded 12 unlabeled flyers
+Prepared 1648 items for batch processing
+Estimated total tokens: 14944421
+  - Text tokens: 936421
+  - Image tokens: 14008000
+Estimated number of batches: 9
+Estimated total cost: $2.22
+Flyers to process saved: flyers_to_process.json
+Batch input saved: batch_input.json
+Created 9 batch files in batch_files
+Processing batch group 1 of 2
+Uploaded batch input file batch_input_7.jsonl with ID: file-cGwMQ6JTHJwKNHT70qG8DPim
+Created batch for batch_input_7.jsonl with ID: batch_671ab0532b1c81908ba1cbae33fdb9ad
+Uploaded batch input file batch_input_4.jsonl with ID: file-2A05Y4dAfjq2LXronNbxhRFW
+Created batch for batch_input_4.jsonl with ID: batch_671ab053df20819082e67acffbd249c8
+Uploaded batch input file batch_input_5.jsonl with ID: file-CBtTr57fjpUGCDCWpKH16mdM
+Created batch for batch_input_5.jsonl with ID: batch_671ab05ac8f48190a3f69660f0d970a1
+Uploaded batch input file batch_input_0.jsonl with ID: file-7zHt5xRztBb5yUfYQQTLX69g
+Created batch for batch_input_0.jsonl with ID: batch_671ab05b91588190a283883047a7c4e2
+Uploaded batch input file batch_input_2.jsonl with ID: file-PU12fxX6IB8gsrP7HhqySvfm
+Created batch for batch_input_2.jsonl with ID: batch_671ab05c79a08190934c851c3900370b
+Waiting for 5 batches to complete...
+Waiting for 5 batches to complete...

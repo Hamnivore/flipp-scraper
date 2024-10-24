@@ -1,0 +1,33 @@
+{
+  "store": "Staples",
+  "flyer_name": "Weekly Flyer",
+  "valid_from": "2024-10-20T00:00:00-04:00",
+  "valid_to": "2024-10-26T23:59:59-04:00",
+  "items": [
+    {
+      "id": 884749179,
+      "flyer_id": 6897212,
+      "name": "22999 Save $20 Brother INKvestment Tank MFC- J4535DW all-in-one wireless color inkjet printer Reg. price $249.99 Uses Brother 406 series ink 24486371",
+      "display_type": 1,
+      "cutout_image_url": "https://f.wishabi.net/page_items/354237070/1729338457/extra_large.jpg",
+      "brand": null,
+      "valid_from": "2024-10-20T00:00:00-04:00",
+      "valid_to": "2024-10-26T23:59:59-04:00",
+      "left": 16303.98046875,
+      "bottom": -2514.7099609375,
+      "right": 16830.4609375,
+      "top": -1940.93994140625,
+      "page_destination": null,
+      "available_to": "2024-10-26T23:59:59-04:00",
+      "video_url": null,
+      "price": "229.99",
+      "deal_analysis": {
+        "price_per_unit": "$229.99/ea",
+        "user_recommendation": "If you need a new printer soon, this is a good time to buy!",
+        "deal_score": 4,
+        "meal_prep_score": 1,
+        "in_season": false
+      }
+    }
+  ]
+}
